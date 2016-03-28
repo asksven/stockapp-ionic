@@ -1,0 +1,1 @@
+angular.module('stock-app.directives', [])
